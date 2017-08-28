@@ -118,7 +118,7 @@ public class Arrays {
 
 
 
-// Look in the Rectangle file for actual information on how this is working!
+// Look in the Main.java file for actual information on how this is working!
 class Rectangle {
   private float width = 0;
   private float height = 0;
